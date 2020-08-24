@@ -1,0 +1,13 @@
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\bin\Debug\netcoreapp3.1\BizzBuzz.exe
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\bin\Debug\netcoreapp3.1\BizzBuzz.deps.json
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\bin\Debug\netcoreapp3.1\BizzBuzz.runtimeconfig.json
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\bin\Debug\netcoreapp3.1\BizzBuzz.runtimeconfig.dev.json
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\bin\Debug\netcoreapp3.1\BizzBuzz.dll
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\bin\Debug\netcoreapp3.1\BizzBuzz.pdb
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\obj\Debug\netcoreapp3.1\BizzBuzz.csprojAssemblyReference.cache
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\obj\Debug\netcoreapp3.1\BizzBuzz.AssemblyInfoInputs.cache
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\obj\Debug\netcoreapp3.1\BizzBuzz.AssemblyInfo.cs
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\obj\Debug\netcoreapp3.1\BizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\obj\Debug\netcoreapp3.1\BizzBuzz.dll
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\obj\Debug\netcoreapp3.1\BizzBuzz.pdb
+C:\Users\humph\source\repos\BizzBuzz\BizzBuzz\obj\Debug\netcoreapp3.1\BizzBuzz.genruntimeconfig.cache
